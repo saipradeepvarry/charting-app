@@ -59,6 +59,7 @@ To run this project locally, follow these steps:
 ## Project Structure
 # The project structure is organized as follows:
 
+```bash
 react-charting-application/
 │
 ├── public/
@@ -88,6 +89,7 @@ react-charting-application/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ## Usage
 
